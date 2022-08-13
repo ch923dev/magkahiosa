@@ -10,7 +10,7 @@
 
 #### SETUP
 - ##### Laravel
-  - run - ``` composer update ```
+  - run ``` composer update ```
   - rename ``` .env.example ``` file to ``` .env ```
   - configure ``` .env ``` file
   - run ``` php artisan key:generate ```
