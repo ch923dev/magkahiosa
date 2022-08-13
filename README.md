@@ -1,4 +1,4 @@
-<img src="https://github.com/ch923dev/magkahiosa/blob/master/public/images/MagkahiOSA%20Logo.png?raw=true" />
+<img src="https://github.com/ch923dev/magkahiosa/blob/master/public/images/MagkahiOSA%20Logo.png?raw=true" height="100px" />
 
 # Magkahiosa
 
