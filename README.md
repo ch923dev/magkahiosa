@@ -1,12 +1,5 @@
 
-<style>
-    div{
-        width: 200px;
-        height: auto;
-        background-color: white;
-    }
-</style>
-<div><img src="https://github.com/ch923dev/magkahiosa/blob/master/public/images/MagkahiOSA%20Logo.png?raw=true" width="200px" /></div>
+<img src="https://github.com/ch923dev/magkahiosa/blob/master/public/images/MagkahiOSA%20Logo.png?raw=true" width="400px" />
 
 # Magkahiosa
 
