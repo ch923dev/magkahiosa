@@ -17,5 +17,5 @@
   - run ``` php artisan serve ```
 
 
-#### NOTE
+- #### NOTE
     - No, node package has been added here.
