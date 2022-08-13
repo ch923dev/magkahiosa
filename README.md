@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ch923dev/magkahiosa/blob/master/public/images/MagkahiOSA%20Logo.png?raw=true" width="400px" />
+<img src="https://github.com/ch923dev/magkahiosa/blob/master/public/images/MagkahiOSA%20Logo.png?raw=true" width="400px" center="true"/>
 
 # Magkahiosa
 
